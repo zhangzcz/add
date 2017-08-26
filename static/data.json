@@ -1,0 +1,11 @@
+{
+	"isOk":1,
+	"goods":[
+		{"id":1001,"jiage":1200,"miao":"张超","url":"http://localhost:8080/static/class/ctt/ly-sp_12.jpg"},
+		{"id":1002,"jiage":1300,"miao":"二狗","url":"http://localhost:8080/static/class/ctt/ly-sp_12.jpg"},
+		{"id":1003,"jiage":1400,"miao":"殷先生","url":"http://localhost:8080/static/class/ctt/ly-sp_12.jpg"},
+		{"id":1001,"jiage":1500,"miao":"ztt","url":"http://localhost:8080/static/class/ctt/ly-sp_12.jpg"},
+		{"id":1002,"jiage":1600,"miao":"张二狗","url":"http://localhost:8080/static/class/ctt/ly-sp_12.jpg"},
+		{"id":1003,"jiage":1700,"miao":"禄阳","url":"http://localhost:8080/static/class/ctt/ly-sp_12.jpg"}
+	]
+}
